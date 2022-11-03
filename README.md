@@ -1,5 +1,5 @@
 
-<h1 align="center">💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 💖</h1>
+<h1 align="center"> ✿༺ 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 ༻✿ </h1>
 
 <div align="center">
 
@@ -30,7 +30,7 @@
   <tr>
     <td>
     <img align="left" src="https://raw.githubusercontent.com/codinasion/.github/master/assets/octocat.png" width="150">
-    <h4>💖 Become A Part of This Community 💖</h4>
+    <h4> ꧁༺ 💖 Become A Part of This Community 💖 ༻꧂ </h4>
     <a href="https://github.com/IT-CodingGyan/.github/issues/new?assignees=&labels=welcome+🎉🎉🎉&template=invitation.yml&title=Please+invite+me+to+IT-CodingGyan" alt="join_us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JOIN%20US-purple?style=for-the-badge&logo=github" width="150"></a>
     <img width="900" height="0">
     </td>
